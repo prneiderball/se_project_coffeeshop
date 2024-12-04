@@ -49,7 +49,7 @@
   height: 426px;
   border-radius: 50%;
   background-color: #1878dc;
-  animation: pulsate 1.3s ease-in-out infinite;
+  animation: pulsate 1s ease-in-out infinite;
 }
 
 @keyframes pulsate {
@@ -61,6 +61,6 @@
   }
   100% {
     opacity: 1;
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
 }
