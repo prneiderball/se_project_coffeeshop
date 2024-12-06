@@ -28,7 +28,7 @@
 }
 
 .header__title {
-  margin: 183px 0 0 80px;
+  margin: 183px 0 0 0;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 60px;
@@ -38,7 +38,7 @@
 }
 
 .header__description {
-  margin: 28px 0 0 80px;
+  margin: 28px 0 0 0;
   font-family: "Noto Serif", "Times New Romans", serif;
   font-size: 20px;
   line-height: 30px;
@@ -55,6 +55,7 @@
 }
 
 .header__footer {
+  margin: auto 0 40px 0;
   display: flex;
   justify-content: space-between;
 }
