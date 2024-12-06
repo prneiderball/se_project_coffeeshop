@@ -56,14 +56,17 @@
   background-color: #3f96f3;
 }
 
-.form__label_type_checkbox {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
+.form__label {
   font-family: Inter, sans-serif;
   font-size: 16px;
   line-height: 20px;
   color: #000;
+}
+
+.form__label_type_checkbox {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
 }
 
 .form__checkbox {
