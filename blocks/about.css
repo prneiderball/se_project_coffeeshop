@@ -20,7 +20,7 @@
 }
 
 .about__content {
-  min-width: 660px;
+  max-width: 660px;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -28,7 +28,7 @@
 
 .about__paragraph {
   margin: 0;
-  font-family: "Noto Serif" "Times New Roman" serif;
+  font-family: "Noto Serif", "Times New Roman" serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -45,10 +45,6 @@
 }
 
 .about__circle_animation_blurred {
-  width: 426px;
-  height: 426px;
-  border-radius: 50%;
-  background-color: #1878dc;
   animation: pulsate 1.3s ease-in-out infinite;
 }
 
