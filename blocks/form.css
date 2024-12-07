@@ -3,7 +3,6 @@
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 
 .form__fieldset {
@@ -12,7 +11,6 @@
   border: none;
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 
 .form__input {

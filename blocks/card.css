@@ -21,10 +21,8 @@
 
 .card__list-item {
   display: flex;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
+  font-family: "Noto Serif", "Times New Romans", serif;
+  font-size: 20px;
   line-height: 20px;
 }
 
