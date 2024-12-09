@@ -21,7 +21,7 @@
 }
 
 .header__span-accent {
-  margin: 28px 0 0 0;
+  display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
